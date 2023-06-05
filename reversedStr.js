@@ -8,3 +8,5 @@ function solution(str){
     }
     return temp;
 }
+
+// const solution = str => str.split('').reverse().join('');
