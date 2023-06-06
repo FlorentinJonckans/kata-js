@@ -8,12 +8,13 @@
 - [Disclaimer](#disclaimer)
 - [Vocabulary](#vocabulary)
 - [Node.js & ES6+ Support](#node.js-&-es6+-support)
+- [Codewars Katas by kyu](#Codewars-Katas-by-kyu)
 - [Purpose](#purpose)
 - [Learning Resources](#learning-resources)
 
 ### Introduction
 
-Solutions with tests, tips and tutorials for <a href="https://www.codewars.com">Codewars</a> katas.
+Solutions with tests, tips and tutorials for <a href="https://www.codewars.com">Codewars katas</a>.
 
 ### Disclaimer
 
@@ -39,6 +40,12 @@ The current Node versions [available](https://github.com/Codewars/codewars.com/w
 
 Practicing katas could help you to improve your algorithmic thinking. It could also help at interviews being more confident and learning a few tricks of your preferred language.
 I highly recommend the [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) which will help you ace your next technical interview.
+
+### Codewars Katas by kyu
+
+This will help you find all katas ordered by kyu with a link to the <a href="https://www.codewars.com">Codewars katas</a>.
+
+- [Katas Kyu 8](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc)
 
 ### Learning Resources
 
