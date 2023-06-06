@@ -43,7 +43,7 @@ I highly recommend the [Tech Interview Handbook](https://github.com/yangshun/tec
 
 ### Codewars Katas by kyu
 
-This will help you find all katas ordered by kyu with a link to the <a href="https://www.codewars.com">Codewars katas</a>.
+This will help you find all katas ordered by kyu, by javascript language, by progress and by fundamentals with a link to the <a href="https://www.codewars.com">Codewars katas</a>.
 
 - [Katas Kyu 8](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc)
 
