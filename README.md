@@ -65,8 +65,8 @@ This will help you find all katas ordered by kyu, by javascript language, by pro
   - [Modern JavaScript Cheatsheet - Beaudru Manuel](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 - Array & Objects
-  - [Array Explorer - Sarah Drasner](https://sdras.github.io/array-explorer)
-  - [Object Explorer - Sarah Drasner](https://sdras.github.io/object-explorer)
+  - [Arrays - The Modern JavaScript Tutorial](https://javascript.info/array)
+  - [Objects - The Modern JavaScript Tutorial](https://javascript.info/object)
 
 * Good Practices
   - [Clean Code JavaScript - Ryan McDermott](https://github.com/ryanmcdermott/clean-code-javascript)
