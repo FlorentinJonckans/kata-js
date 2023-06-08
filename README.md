@@ -1,6 +1,6 @@
-<h1 align="center">Codewars Katas</h1>
+<h1 align="center">Codewars JS-Katas</h1>
 
-<h6 align="center">My solutions for Codewars katas</h6>
+<h6 align="center">My solutions for Codewars JS-katas</h6>
 
 ### Table of Contents
 
