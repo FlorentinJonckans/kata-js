@@ -8,3 +8,7 @@
 function filterList(l) {
     return l.filter(element => typeof element === 'number');
 }
+
+// function filter_list(l) {
+//     return l.filter(e => Number.isInteger(e));
+// }
