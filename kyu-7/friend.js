@@ -19,3 +19,7 @@ function friend(friends){
     }
     return array;
 }
+
+// function friend(friends){
+//     return friends.filter(n => n.length === 4)
+// }
