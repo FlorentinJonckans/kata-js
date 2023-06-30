@@ -15,4 +15,4 @@ function stray(numbers) {
     } else {
       return array[array.length - 1];
     }
-  }
+}
