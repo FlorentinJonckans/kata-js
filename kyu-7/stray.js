@@ -9,5 +9,10 @@
 // [17, 17, 3, 17, 17, 17, 17] ==> 3
 
 function stray(numbers) {
-    return numbers.find((element) => numbers.filter((otherElement) => otherElement===element).length === 1); 
-}
+    let array = numbers.sort();  
+    if (array[0] !== array[1]) {
+      return array[0];
+    } else {
+      return array[array.length - 1];
+    }
+  }
