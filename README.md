@@ -47,6 +47,7 @@ This will help you find all katas ordered by kyu, by javascript language, by pro
 
 - [Katas Kyu 8](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc)
 - [Katas Kyu 7](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc)
+- [Katas Kyu 6](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-6&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc)
 
 ### Learning Resources
 
