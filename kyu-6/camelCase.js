@@ -10,3 +10,8 @@ String.prototype.camelCase = function(){
       .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
       .join('');
 };
+
+// Other possibility using regex
+// String.prototype.camelCase = function () {
+//     return this.trim().replace(/(?:^|\s+)(\w)/g, (_, c) => c.toUpperCase())
+// }
